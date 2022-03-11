@@ -66,13 +66,10 @@ margin-right: 10px;
     #DSmovie-card-list {
   padding: 40px 0;
 
-
     }
 
-
-
     .DSmovie-card { 
-width: 360px;
+width: 100%;
 
     }
 
