@@ -2,7 +2,32 @@
 @import url('https://fonts.googleapis.com/css2? família=Open+Sans:wght@300;400;700&display=swap');
 
 * {
-   font-family: 'Open Sans';
+    box-sizing: border-box;
+    font-family: 'Open Sans';
 
 
+}
+
+html, body { 
+
+background-color: #ddd;
+
+}
+
+nav {
+ display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+header{
+
+background-color: #4D41C0;
+color: #ffff;
+
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: unset;  
 }
